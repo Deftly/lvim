@@ -1,4 +1,5 @@
 reload("user.options")
+reload("user.keymaps")
 --[[
 lvim is the global options object
 
